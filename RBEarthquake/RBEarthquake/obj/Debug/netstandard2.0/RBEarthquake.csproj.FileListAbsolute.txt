@@ -1,0 +1,14 @@
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.csprojAssemblyReference.cache
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.AssemblyInfoInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.AssemblyInfo.cs
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.csproj.CoreCompileInputs.cache
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\bin\Debug\netstandard2.0\RBEarthquake.deps.json
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\bin\Debug\netstandard2.0\RBEarthquake.dll
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\bin\Debug\netstandard2.0\ref\RBEarthquake.dll
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\bin\Debug\netstandard2.0\RBEarthquake.pdb
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.dll
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\ref\RBEarthquake.dll
+C:\Users\Ryan Boudwin\source\repos\RBEarthquake\RBEarthquake\RBEarthquake\obj\Debug\netstandard2.0\RBEarthquake.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RBEarthquake.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label x:Name="LblTitle"
+               Text="Ryan's Earthquake App"
+               Grid.Row="0"
+               Grid.Column="0"
+               BackgroundColor ="SlateGray"
+               TextColor="White"
+               FontSize="30"
+              HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"
+               />
+        <Label x:Name="LblStartDate"
+               Text="Start Date"
+               FontSize="30"
+               Grid.Row="1"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <DatePicker x:Name="DPStartDate"
+               FontSize="30"
+               Grid.Row="2"
+               TextColor="Black"
+               />
+
+        <Label x:Name="LblEndDate" 
+               Text="End Date"
+               FontSize="30"
+               Grid.Row="3"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+
+        <DatePicker x:Name="DPEndDate"
+               FontSize="30"
+               Grid.Row="4"
+               TextColor="Black"
+               />
+        <Label x:Name="LblMinMagnitude" 
+               Text="Minimum Magnitude"
+               FontSize="30"
+               Grid.Row="5"
+               TextColor="Black"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Entry x:Name="EntMinimumMagnitude"
+               Grid.Row="6"
+               FontSize="30"
+               TextColor="Black"               
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Center"/>
+        <Button x:Name="BtnFind"
+                Grid.Row="7"
+                FontSize="25"
+                Text="Find"
+                TextColor="White"
+                BackgroundColor="SlateGray"
+                CornerRadius="10"
+                VerticalOptions="Center"
+                Margin="10, 0, 10, 0"
+                Clicked="BtnFind_Clicked"/>
+        <Label x:Name="LblResults"
+               Grid.Row="8"
+               Text="Results go here"
+               FontSize="20"
+               TextColor="Black"
+               BackgroundColor="White"
+               HorizontalTextAlignment="Center"
+               VerticalTextAlignment="Start"/>
+    </Grid>
+
+</ContentPage>
